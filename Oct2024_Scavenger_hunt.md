@@ -3,7 +3,7 @@ Present all items in person at the scavenger hunt contest table between 6:00 PM 
 
 You may participate individually or in teams of up to 4 members. All team members must be present during submissions. The scavenger hunt starts at 2:00 PM, and all items must be submitted between 6:00 PM and 8:00 PM. Winners will be announced at 8:30 PM.
 
-Complete tasks and obtain items during the hunt period. Pre-existing work or items (unless specified) are not eligible. For online activities, comply with the platforms' terms of service. Date-specific tasks must be completed on October 3rd.
+Complete tasks during the hunt period. Pre-existing work (unless specified) are not eligible. For online activities tasks must be completed on October 3rd.
 
 Keep evidence of your work and be prepared to explain your methods to the judges. All submissions must include the code phrase Hacktober3 to verify completion on October 3rd. Display the code phrase in your photos, screenshots, or written work as appropriate.
 
